@@ -1,10 +1,11 @@
 
-## Habit Tracking App
+# Habit Tracking App
 
-Overview
+**Overview**
+
 The Habit Tracking App empowers users to build and sustain meaningful daily and weekly habits with ease and clarity. Designed for those who want to take control of their personal growth, the app combines a seamless, user-friendly experience with powerful tools that keep you motivated and on track. Set goals, visualize your progress, and achieve more with features that make habit tracking simple and impactful.
 
-# ✨ Key Features
+## ✨ Key Features
 Secure Authentication
 Access the app with Google or email and password authentication options. (Facebook and Instagram login options coming soon!)
 
@@ -20,7 +21,7 @@ Visualize your weekly progress with engaging charts, showing habit completion ra
 Daily Notifications
 Never miss a habit! Get reminders at 1 PM daily to keep you on track.
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 Welcome Page Options
 
 Login: Use your email and password to sign in.
@@ -37,7 +38,7 @@ Profile Management
 
 Access your Profile to view or update personal details, change your password, log out, or delete your account.
 
-# 📸 App Screenshots
+## 📸 App Screenshots
 Splash Screen
 <p float="left"> <img src="screenshots/splash.png" width="200" /> </p>
 Onboarding
