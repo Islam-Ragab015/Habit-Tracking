@@ -1,73 +1,57 @@
+
 # Habit Tracking App
 
-**Overview**  
-The Habit Tracking App is designed to help users effectively manage their daily and weekly habits. With a user-friendly interface and a range of features, users can seamlessly track their progress and stay motivated.
+**Overview**
 
-## Key Features
-- **Secure Login**: Authenticate using Google, email, and password. (Note: Facebook and Instagram login options are currently unavailable.)
-- **Detailed Habit Management**: Add habits with descriptions, durations, dates, and categories (e.g., Work, Study, Sports).
-- **Real-Time Progress Tracking**: Monitor daily progress on the Home Page.
-- **Weekly Progress Visualization**: View progress through visual charts that show the completion rate of habits.
-- **Daily Notifications**: Receive reminders every day at 1 PM to track your habits.
+The Habit Tracking App empowers users to build and sustain meaningful daily and weekly habits with ease and clarity. Designed for those who want to take control of their personal growth, the app combines a seamless, user-friendly experience with powerful tools that keep you motivated and on track. Set goals, visualize your progress, and achieve more with features that make habit tracking simple and impactful.
 
-## Getting Started
-1. Upon reaching the Welcome Page, you have three options:
-   - **Login** with an existing email and password.
-   - **Sign Up**: Enter a valid email address to receive a verification link on Gmail. Note: You must verify your account before logging in.
-   - **Login with Google**: Use your Google account for quick access.
+## ✨ Key Features
+Secure Authentication
+Access the app with Google or email and password authentication options. (Facebook and Instagram login options coming soon!)
 
-2. After logging in, you will be directed to the Home Page, where you can:
-   - Add, edit, or delete habits.
-   - Track your daily progress.
+Comprehensive Habit Management
+Easily create habits with detailed descriptions, duration, dates, and categories, such as Work, Study, or Sports.
 
-3. To track a specific habit, click on the description of the habit to navigate to the Habit Tracking page. Here, you can analyze your progress for the current and previous weeks, represented in a chart showing the completion rates of all added habits.
+Real-Time Progress Monitoring
+Track your daily habit progress directly on the Home Page.
 
-4. Access the Profile page to view user data, change your password, log out, or permanently delete your account.
+Weekly Insights with Visual Charts
+Visualize your weekly progress with engaging charts, showing habit completion rates and helping you stay motivated.
 
-## Photos of Screens
+Daily Notifications
+Never miss a habit! Get reminders at 1 PM daily to keep you on track.
 
-### Splash Screen
-<p float="left">
-  <img src="screenshots/splash.png" width="200" />
-</p>
+## 🚀 Getting Started
+Welcome Page Options
 
-### Onboarding Screens
-<p float="left">
-  <img src="screenshots/onboarding1.png" width="200" />
-  <img src="screenshots/onboarding2.png" width="200" />
-  <img src="screenshots/onboarding3.png" width="200" />
-</p>
+Login: Use your email and password to sign in.
+Sign Up: Register with your email to receive a verification link. Verify your account to activate it.
+Login with Google: Access quickly with your Google account.
+Home Page Overview
 
-### Welcome Screen
-<p float="left">
-  <img src="screenshots/welcome.png" width="200" />
-</p>
+Add, edit, or delete habits.
+Monitor daily progress easily.
+Habit Tracking
 
-### Sign In and Sign Up Screens
-<p float="left">
-  <img src="screenshots/signin.png" width="200" />
-  <img src="screenshots/signup.png" width="200" />
-</p>
+Click on a habit's description to open the Habit Tracking page. Analyze daily and weekly progress with a visual chart showing completion rates for all tracked habits.
+Profile Management
 
-### Home Page
-<p float="left">
-  <img src="screenshots/home page.png" width="200" />
-</p>
+Access your Profile to view or update personal details, change your password, log out, or delete your account.
 
-### Adding and Editing Habits
-<p float="left">
-  <img src="screenshots/add habit.png" width="200" />
-  <img src="screenshots/edit habit.png" width="200" />
-</p>
-
-### Tracking Habits
-<p float="left">
-  <img src="screenshots/track habit.png" width="200" />
-  <img src="screenshots/tracking.png" width="200" />
-</p>
-
-### Profile Screens
-<p float="left">
-  <img src="screenshots/profile 1.png" width="200" />
-  <img src="screenshots/profile 2.png" width="200" />
-</p>
+## 📸 App Screenshots
+Splash Screen
+<p float="left"> <img src="screenshots/splash.png" width="200" /> </p>
+Onboarding
+<p float="left"> <img src="screenshots/onboarding1.png" width="200" /> <img src="screenshots/onboarding2.png" width="200" /> <img src="screenshots/onboarding3.png" width="200" /> </p>
+Welcome Screen
+<p float="left"> <img src="screenshots/welcome.png" width="200" /> </p>
+Authentication Screens
+<p float="left"> <img src="screenshots/signin.png" width="200" /> <img src="screenshots/signup.png" width="200" /> </p>
+Home Page & Habit Management
+<p float="left"> <img src="screenshots/home page.png" width="200" /> </p>
+Adding & Editing Habits
+<p float="left"> <img src="screenshots/add habit.png" width="200" /> <img src="screenshots/edit habit.png" width="200" /> </p>
+Tracking Habits
+<p float="left"> <img src="screenshots/track habit.png" width="200" /> <img src="screenshots/tracking.png" width="200" /> </p>
+Profile Page
+<p float="left"> <img src="screenshots/profile 1.png" width="200" /> <img src="screenshots/profile 2.png" width="200" /> </p>
