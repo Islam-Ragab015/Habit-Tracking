@@ -41,49 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBM9CCWNBApwnJ2w36HX9hePzoYn6iixXA',
-    appId: '1:107390424918:web:0f50473865aba1d6a828f7',
-    messagingSenderId: '107390424918',
-    projectId: 'habittracking-ca4d5',
-    authDomain: 'habittracking-ca4d5.firebaseapp.com',
-    storageBucket: 'habittracking-ca4d5.appspot.com',
-    measurementId: 'G-XVBY42NL11',
+    apiKey: 'AIzaSyDACUnHdMRFQQOhy6l50Rm_3cgtSWECPAU',
+    appId: '1:725886665003:web:ab68e611e677f53835056e',
+    messagingSenderId: '725886665003',
+    projectId: 'habit-tracking-b4039',
+    authDomain: 'habit-tracking-b4039.firebaseapp.com',
+    storageBucket: 'habit-tracking-b4039.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD784_R2ynbAKu7NWgMyIW6e0SZ59Vlmc8',
-    appId: '1:107390424918:android:b451c8f33f58b92ba828f7',
-    messagingSenderId: '107390424918',
-    projectId: 'habittracking-ca4d5',
-    storageBucket: 'habittracking-ca4d5.appspot.com',
+    apiKey: 'AIzaSyB4J0h6iFx2ww0N7rKJTHLyH3eUJO9_M8c',
+    appId: '1:725886665003:android:c65476ac0845029235056e',
+    messagingSenderId: '725886665003',
+    projectId: 'habit-tracking-b4039',
+    storageBucket: 'habit-tracking-b4039.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDlAOJ5ZsiurnwomRw37y8uGT4WShGdDHM',
-    appId: '1:107390424918:ios:f3ee4341de545b22a828f7',
-    messagingSenderId: '107390424918',
-    projectId: 'habittracking-ca4d5',
-    storageBucket: 'habittracking-ca4d5.appspot.com',
-    iosBundleId: 'com.example.firebaseSignin',
+    apiKey: 'AIzaSyAwWWjZD7cMTgkf5EMFhHj3oXJobI0DTTk',
+    appId: '1:725886665003:ios:fa2f4c8f4946fe5235056e',
+    messagingSenderId: '725886665003',
+    projectId: 'habit-tracking-b4039',
+    storageBucket: 'habit-tracking-b4039.firebasestorage.app',
+    iosBundleId: 'com.example.habitTracking',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDlAOJ5ZsiurnwomRw37y8uGT4WShGdDHM',
-    appId: '1:107390424918:ios:f3ee4341de545b22a828f7',
-    messagingSenderId: '107390424918',
-    projectId: 'habittracking-ca4d5',
-    storageBucket: 'habittracking-ca4d5.appspot.com',
-    iosBundleId: 'com.example.firebaseSignin',
+    apiKey: 'AIzaSyAwWWjZD7cMTgkf5EMFhHj3oXJobI0DTTk',
+    appId: '1:725886665003:ios:fa2f4c8f4946fe5235056e',
+    messagingSenderId: '725886665003',
+    projectId: 'habit-tracking-b4039',
+    storageBucket: 'habit-tracking-b4039.firebasestorage.app',
+    iosBundleId: 'com.example.habitTracking',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBM9CCWNBApwnJ2w36HX9hePzoYn6iixXA',
-    appId: '1:107390424918:web:808f7e450ae08b93a828f7',
-    messagingSenderId: '107390424918',
-    projectId: 'habittracking-ca4d5',
-    authDomain: 'habittracking-ca4d5.firebaseapp.com',
-    storageBucket: 'habittracking-ca4d5.appspot.com',
-    measurementId: 'G-8MXZXBTKW8',
+    apiKey: 'AIzaSyDACUnHdMRFQQOhy6l50Rm_3cgtSWECPAU',
+    appId: '1:725886665003:web:e0707d9e4fd19a3c35056e',
+    messagingSenderId: '725886665003',
+    projectId: 'habit-tracking-b4039',
+    authDomain: 'habit-tracking-b4039.firebaseapp.com',
+    storageBucket: 'habit-tracking-b4039.firebasestorage.app',
   );
-
 }
